@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   aqueduct:
   - apiVersion: v2
+    appVersion: 0.1.8
+    created: "2022-12-21T06:55:30.301347038Z"
+    description: Helm chart for deploying Aqueduct on Kubernetes
+    digest: 4a97808efce855fad4dd7db9f3ea892dd94bd1cb5a5d04f706226cb9d4623a16
+    name: aqueduct
+    type: application
+    urls:
+    - https://aqueducthq.github.io/aqueduct-helm/aqueduct-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-12-14T18:28:03.434141598Z"
+    created: "2022-12-21T06:55:30.300850207Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: 4d30a34982559d37d9c7be082e2182a9c8773d45aa7ee4344272cfad11ff34b7
     name: aqueduct
@@ -13,7 +23,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-12-14T18:28:03.432881114Z"
+    created: "2022-12-21T06:55:30.300367626Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: 6a1f2b021a2eec203070a5d9003bda14d3f251f17368768b8243450b02df7cb1
     name: aqueduct
@@ -23,7 +33,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-12-14T18:28:03.432390671Z"
+    created: "2022-12-21T06:55:30.299876245Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: a204429666faf60e2704078137b0f0c6d6de7e98368afd9af737f6308fbbc11f
     name: aqueduct
@@ -33,7 +43,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-12-14T18:28:03.431869266Z"
+    created: "2022-12-21T06:55:30.299363303Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: 8b9c0f87cb879c70a64db6f2a859ffa616ebebddd7910448cf2db26614ae22f1
     name: aqueduct
@@ -43,7 +53,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-12-14T18:28:03.431367777Z"
+    created: "2022-12-21T06:55:30.298869602Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: 3b42e75ab7596563d69d8f0a36b78c531d92b90934540f562bc86b8531732e1b
     name: aqueduct
@@ -53,7 +63,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-12-14T18:28:03.430869596Z"
+    created: "2022-12-21T06:55:30.298358097Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: d2783d46750c497cb7618ad0f3b240f5ff95f099fd4b61b5fc20c5f88a7bf2a8
     name: aqueduct
@@ -63,7 +73,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-12-14T18:28:03.430421717Z"
+    created: "2022-12-21T06:55:30.297851357Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: aff3968d70ee83ecaed199fc8b2d9c391479ccdb274ef87b00d0dc75603f9ef7
     name: aqueduct
@@ -73,7 +83,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2022-12-14T18:28:03.434601741Z"
+    created: "2022-12-21T06:55:30.301828626Z"
     description: Helm chart for deploying Aqueduct on Kubernetes
     digest: dc08e8638ae2ba3e5bb93d19c685fb0a7314862312a7eb394d324fff5393cd61
     name: aqueduct
@@ -81,4 +91,4 @@ entries:
     urls:
     - https://aqueducthq.github.io/aqueduct-helm/aqueduct-0.1.tgz
     version: "0.1"
-generated: "2022-12-14T18:28:03.429836172Z"
+generated: "2022-12-21T06:55:30.297116493Z"
